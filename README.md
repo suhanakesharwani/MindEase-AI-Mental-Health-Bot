@@ -19,7 +19,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/suhanakesharwani/MindEase-AI-Mental-Health-Bot.git
 2. **Navigate to Project Directory**:
     ```bash
    cd your-repo-name
@@ -32,5 +32,5 @@
 5. **Visit the App:**:
     Open your browser and visit http://127.0.0.1:5000
 
-## License 📄
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Author
+Made with ❤️ by Suhana Kesharwani
